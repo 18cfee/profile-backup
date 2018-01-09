@@ -2,5 +2,6 @@
 test -f ~/.profile && . ~/.profile
 test -f ~/.bashrc && . ~/.bashrc
 alias st='git status'
-alias gp='git push'
+alias push='git push'
 alias com='git commit -am'
+alias pull='git pull'
