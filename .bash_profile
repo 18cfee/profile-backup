@@ -7,3 +7,5 @@ alias com='git commit -am'
 alias pull='git pull'
 alias chm='git checkout master'
 alias ch='git checkout'
+alias p='git push; git commit -am'
+
